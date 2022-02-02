@@ -1,0 +1,7 @@
+{
+  "name": "menu-iconic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
